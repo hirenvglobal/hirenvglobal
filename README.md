@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @hirenvglobal
-- 👀 I’m interested in Coding using Python with Streamlit and Data Science
+- 👀 I’m interested in Data Science, Coding and Automation using Python
 - 📫 How to reach me hdaftari@vcheckglobal.com
 - 😄 Pronouns: Hee-Ren
 
